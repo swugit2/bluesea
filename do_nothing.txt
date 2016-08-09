@@ -1,2 +1,3 @@
 Enter file contents here
 Added the needed details requested by swuget2
+swugit add a line from https://github.com/swugit2/bluesea
